@@ -1,0 +1,7 @@
+C:\Users\jonat\source\repos\Estrutura de Dados\Estrutura de Dados\bin\Debug\Estrutura de Dados.exe.config
+C:\Users\jonat\source\repos\Estrutura de Dados\Estrutura de Dados\bin\Debug\Estrutura de Dados.exe
+C:\Users\jonat\source\repos\Estrutura de Dados\Estrutura de Dados\bin\Debug\Estrutura de Dados.pdb
+C:\Users\jonat\source\repos\Estrutura de Dados\Estrutura de Dados\obj\Debug\Estrutura de Dados.csprojAssemblyReference.cache
+C:\Users\jonat\source\repos\Estrutura de Dados\Estrutura de Dados\obj\Debug\Estrutura de Dados.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Estrutura de Dados\Estrutura de Dados\obj\Debug\Estrutura de Dados.exe
+C:\Users\jonat\source\repos\Estrutura de Dados\Estrutura de Dados\obj\Debug\Estrutura de Dados.pdb
