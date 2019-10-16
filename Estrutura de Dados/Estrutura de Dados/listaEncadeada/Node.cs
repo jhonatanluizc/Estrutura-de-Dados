@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Estrutura_de_Dados.lista
+namespace Estrutura_de_Dados.listaEncadeada
 {
     class Node
     {

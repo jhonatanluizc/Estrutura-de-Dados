@@ -4,31 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Estrutura_de_Dados.lista
+namespace Estrutura_de_Dados.fila
 {
     class Node
     {
         //variavel para armazenar o valor
         public int v;
-        //armazena o proximo endereco
-        private Node next;
+        //armazena o endereco anterior
+        private Node before;
 
-        //salva o valor e o proximo endereco
+        //salva o valor e o endereco anterior
         public Node(int x)
         {
             v = x;
-            next = null;
+            before = null;
         }
 
 
-        public void setNext(Node n)
+        public void setBefore(Node n)
         {
-            next = n;
+            before = n;
         }
 
-        public Node getNext()
+        public Node getBefore()
         {
-            return next;
+            return before;
         }
 
         public int getV()

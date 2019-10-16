@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Estrutura_de_Dados
+namespace Estrutura_de_Dados.lista
 {
     class Lista
     {
@@ -52,6 +52,78 @@ namespace Estrutura_de_Dados
             }
         }
 
+        public int Tam
+        {
+            get
+            {
+                int t = 0;
+                Node n = head;
+                while (n != null)
+                {
+                    if (n != null)
+                        t++;
+                    n = n.getNext();
+                }
+                return t;
+            }
+        }
+
+        public int Soma
+        {
+            get
+            {
+                int t = 0;
+                Node n = head;
+                while (n != null)
+                {
+                    if (n != null)
+                        t+= n.getV();
+                    n = n.getNext();
+                }
+                return t;
+            }
+        }
+
+        public int valor(int index)
+        {
+            int cont = -1;
+            int v = 0;
+            Node n = head;
+            while (n != null && cont < index)
+            {
+                v = n.getV();
+                n = n.getNext();
+                cont++;
+            }
+            return v;
+
+        }
+
+        public bool compare(Lista x)
+        {
+            if (x.Tam != this.Tam)
+            {
+                return false;
+            }
+            for (int i = 0; i < this.Tam; i++)
+            {
+                if (x.valor(i) != this.valor(i))
+                    return false;            
+            }
+            return true;
+        }
+
+        public void reverse()
+        {
+            Lista t = new Lista();
+            for (int i = 0; i < this.Tam; i++)
+            {
+                t.add(this.valor( (this.Tam-1)-i) );
+            }
+
+            t.print();
+
+        }
 
 
     }
