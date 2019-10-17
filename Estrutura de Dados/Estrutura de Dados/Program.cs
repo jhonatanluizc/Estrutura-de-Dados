@@ -12,25 +12,7 @@ namespace Estrutura_de_Dados
         static void Main(string[] args)
 
         {
-
-            fila.Fila fila = new fila.Fila();
-            Console.WriteLine(fila.isEmpty());
-
-            fila.push(2);
-            Console.WriteLine(fila.isEmpty());
-
-            fila.push(3);
-            fila.pop();
-            Console.WriteLine(fila.isEmpty());
-            fila.pop();
-            Console.WriteLine(fila.isEmpty());
-            fila.push(9);
-            Console.WriteLine(fila.isEmpty());
-            fila.pop();
-            Console.WriteLine(fila.isEmpty());
-            fila.pop();
-
-
+            pilha.Pilha pilha = new pilha.Pilha();
 
             Console.ReadKey();           
             Console.ReadKey();

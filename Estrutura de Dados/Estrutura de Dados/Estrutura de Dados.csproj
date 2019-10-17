@@ -51,14 +51,14 @@
     <Compile Include="listaEncadeada\Node.cs" />
     <Compile Include="lista\Lista.cs" />
     <Compile Include="lista\Node.cs" />
+    <Compile Include="pilha\Node.cs" />
+    <Compile Include="pilha\Pilha.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="pilha\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

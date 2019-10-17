@@ -16,12 +16,12 @@ namespace Estrutura_de_Dados.fila
             fim = null;
         }
 
-        public bool isEmpty()
+        public void isEmpty()
         {
             if (inicio == null)
-                return true;
+                Console.WriteLine(true);
             else
-                return false;
+                Console.WriteLine(false);
         }
 
         public void push(int x)
