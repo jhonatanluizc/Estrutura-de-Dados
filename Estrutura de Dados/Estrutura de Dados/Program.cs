@@ -13,6 +13,7 @@ namespace Estrutura_de_Dados
 
         {
             pilha.Pilha pilha = new pilha.Pilha();
+            fila.Fila fila = new fila.Fila();
 
             Console.ReadKey();           
             Console.ReadKey();
