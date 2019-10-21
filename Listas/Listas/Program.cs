@@ -11,20 +11,16 @@ namespace Listas
         static void Main(string[] args)
         {
             Lista lista = new Lista();
+            Encadeada encadeada = new Encadeada();
             Pilha pilha = new Pilha();
             Fila fila = new Fila();
 
-            fila.isEmpty();
-            fila.push(1);
-            fila.push(2);
-            fila.isEmpty();
-            fila.push(3);
-            fila.pop();
-            fila.pop();
-            fila.pop();
-            fila.isEmpty();
+           
+
+
 
             Console.ReadKey();
+
 
 
         }

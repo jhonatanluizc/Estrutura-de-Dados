@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Encadeada.cs" />
     <Compile Include="Fila.cs" />
     <Compile Include="Lista.cs" />
     <Compile Include="Node.cs" />

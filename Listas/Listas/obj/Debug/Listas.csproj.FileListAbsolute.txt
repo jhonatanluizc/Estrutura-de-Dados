@@ -5,3 +5,10 @@ C:\Users\jonat\Desktop\enari\Listas\Listas\obj\Debug\Listas.csprojAssemblyRefere
 C:\Users\jonat\Desktop\enari\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
 C:\Users\jonat\Desktop\enari\Listas\Listas\obj\Debug\Listas.exe
 C:\Users\jonat\Desktop\enari\Listas\Listas\obj\Debug\Listas.pdb
+C:\Users\jonat\Desktop\enari\estrutura_de_dados\Listas\Listas\obj\Debug\Listas.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\enari\estrutura_de_dados\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\enari\estrutura_de_dados\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\jonat\Desktop\enari\estrutura_de_dados\Listas\Listas\obj\Debug\Listas.pdb
+C:\Users\jonat\Desktop\enari\estrutura_de_dados\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\jonat\Desktop\enari\estrutura_de_dados\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\jonat\Desktop\enari\estrutura_de_dados\Listas\Listas\bin\Debug\Listas.pdb
