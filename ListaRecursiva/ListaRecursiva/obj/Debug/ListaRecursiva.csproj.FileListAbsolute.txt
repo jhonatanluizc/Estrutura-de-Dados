@@ -1,0 +1,7 @@
+C:\Users\jonat\Desktop\recursividade\ListaRecursiva\ListaRecursiva\bin\Debug\ListaRecursiva.exe.config
+C:\Users\jonat\Desktop\recursividade\ListaRecursiva\ListaRecursiva\bin\Debug\ListaRecursiva.exe
+C:\Users\jonat\Desktop\recursividade\ListaRecursiva\ListaRecursiva\bin\Debug\ListaRecursiva.pdb
+C:\Users\jonat\Desktop\recursividade\ListaRecursiva\ListaRecursiva\obj\Debug\ListaRecursiva.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\recursividade\ListaRecursiva\ListaRecursiva\obj\Debug\ListaRecursiva.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\recursividade\ListaRecursiva\ListaRecursiva\obj\Debug\ListaRecursiva.exe
+C:\Users\jonat\Desktop\recursividade\ListaRecursiva\ListaRecursiva\obj\Debug\ListaRecursiva.pdb
